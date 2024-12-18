@@ -45,6 +45,7 @@ class GdgListViewModel: ViewModel() {
     }
 
     private fun onQueryChanged() {
+
         currentJob?.cancel() // if a previous query is running cancel it before starting another
         currentJob = viewModelScope.launch {
             try {

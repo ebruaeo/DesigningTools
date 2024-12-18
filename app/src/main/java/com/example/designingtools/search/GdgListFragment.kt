@@ -66,6 +66,7 @@ class GdgListFragment : Fragment() {
         viewModel.regionList.observe(viewLifecycleOwner, object: Observer<List<String>> {
             override fun onChanged(value: List<String>) {
                 // 1: Make a new Chip view for each item in the list
+
                 val chipGroup = binding.regionList
                 val inflator = LayoutInflater.from(chipGroup.context)
 
@@ -80,9 +81,11 @@ class GdgListFragment : Fragment() {
                 }
 
                 // 2: Remove any views already in the ChipGroup
+
                 chipGroup.removeAllViews()
 
                 // 3: Add the new children to the ChipGroup
+
                 for (chip in children) {
                     chipGroup.addView(chip)
                 }
