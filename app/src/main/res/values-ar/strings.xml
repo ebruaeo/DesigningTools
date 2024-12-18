@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الباحث عن GDG</string>
+    <string name="hello_blank_fragment">مرحبًا، شظية فارغة</string>
+    <string name="add_gdg">"لم تجد مجموعة GDG في منطقتك؟ رائع، انطلق وابدأ واحدة. املأ النموذج أدناه
+        وانتظر سماع ردنا قريبًا! "
+    </string>
+    <string name="application_submitted">لقد استلمنا طلبك!! حسنًا، ليس حقًا. هذا نموذج اختبار فقط
+        لأغراض تعليمية. إذا كنت تريد تقديم طلبك فعليًا، يرجى زيارة الموقع!
+    </string>
+    <string name="gdg_search">بحث GDG</string>
+    <string name="gdg_apply">تقديم طلب لإدارة GDG</string>
+    <string name="gdgs_are">GDG تعني…</string>
+    <string name="gdg_description_long">GDG هي مجموعات محلية من المطورين الذين يهتمون بشكل خاص بمنتجات Google
+        وواجهات برمجية التطبيقات (APIs). كل مجموعة محلية تسمى فصل GDG ويمكنها استضافة مجموعة متنوعة من الأنشطة التقنية
+        للمطورين - بدءًا من تجمعات صغيرة لمشاهدة أحدث مقاطع الفيديو لدينا، وصولاً إلى تجمعات كبيرة مع عروض توضيحية
+        ومحادثات تقنية، إلى الهاكاثونات. Google Developers يدعم ويعترف بفصول GDG، ولكنه لا يمتلكها أو يديرها.
+    </string>
+    <string name="about_google_developer_groups">عن مجموعات مطوري Google</string>
+    <string name="gdg_description_bullets">️يديرها أفراد شغوفون في المجتمعات المحلية للمطورين\n
+        ️مجموعة لمشاركة الأفكار والتواصل مع مطورين آخرين \n
+        ️مكان للتعلم حول تقنيات وأدوات تطوير Google \n
+        مفتوحة ومجانية للجميع المهتمين
+    </string>
+    <string name="waiting_for_location_and_network">بانتظار نتائج الموقع والشبكة.\n\n إذا كنت تستخدم محاكيًا، افتح تطبيق الخرائط لتمكين خدمات الموقع.
+    </string>
+    <string name="stage_image_description">صورة من مسرح من حدث DevFest</string>
+    <string name="submit_button_description">زر لتقديم النموذج</string>
+    <string name="form_name_description">أدخل اسمك</string>
+    <string name="motivation">أخبرنا قليلاً لماذا تريد بدء GDG</string>
+    <string name="your_name_label">اسمك</string>
+    <string name="email_label">البريد الإلكتروني</string>
+    <string name="city_label">المدينة</string>
+    <string name="country_label">الدولة</string>
+    <string name="region_label">المنطقة</string>
+    <string name="enter_motivation">يرجى إدخال دافعك في جملة أو جملتين</string>
+    <string name="submitted">تم الإرسال، لا حاجة للإرسال مجددًا</string>
+    <string name="done">تم</string>
+    <string name="submit">إرسال</string>
+</resources>
